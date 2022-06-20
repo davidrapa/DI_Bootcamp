@@ -1,0 +1,67 @@
+* {
+font-family: 'Josefin Sans', sans-serif;
+margin: 0px;
+}
+
+nav {
+margin: 1px;
+}
+
+ul {
+  list-style-type: none;
+  margin: 0px;
+  padding: 0px;
+  overflow: hidden;
+  background-color: #333;
+}
+
+li {
+  float: right;
+}
+
+li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+li a:hover:not(.active) {
+  background-color: #111;
+}
+
+.active {
+  background-color: #333;
+}
+
+img {
+  position: absolute;
+  top: 3px;
+  
+
+}
+body {
+  background-image: url("https://s1.1zoom.me/big0/404/Avengers_Infinity_War_Chris_Hemsworth_Thor_hero_550206_1271x1024.jpg");
+}
+
+.box-title {    
+  height: 100px;
+  width: 100px;
+  position: absolute;
+  top: 180px;
+}
+
+.box-content {
+  height: 50px;
+  width: 600px; 
+  position: absolute;
+  top: 380px;
+
+}
+
+h1	{
+text-align: left;
+font-size: 100px;
+
+}

@@ -1,0 +1,18 @@
+body {
+vw: 50%;
+}
+
+.wrap_em_unit {
+font-size: 30px;
+}
+
+.em_unit {
+border-style: outset;
+font-size: 60px;
+}
+
+.em_unit_small {
+border-style: outset;
+font-size: 2vh;
+	
+}

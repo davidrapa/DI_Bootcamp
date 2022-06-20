@@ -1,0 +1,19 @@
+body {
+background-color: #99a59c;
+
+}
+
+form {
+	background-color: #8e5fc0;
+text-align: center;
+font-family: fantasy;
+font-size: 2em;
+border-style: outset;
+
+}
+
+input [type=checkbox]:not(:checked) +label	{
+
+	color: red;
+	/* style */
+}
