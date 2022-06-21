@@ -34,16 +34,18 @@ li a:hover {
   color: white;
 }
 .Shopcart {
-display: inline-block;
-top: 300px
+top: 300px: ;
+display: flex;
+justify-content: center;
+align-items: stretch;
+flex-wrap: wrap;
 }
 
 .card {
   box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
-  max-width: 200px;
   text-align: center;
   font-family: arial;
-
+  flex-basis: 200px;
 }
 
 .price {

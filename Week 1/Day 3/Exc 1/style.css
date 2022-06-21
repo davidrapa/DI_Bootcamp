@@ -1,0 +1,42 @@
+/*GENERAL CSS*/
+
+
+
+/*-----------------------------*/
+
+.sectionflexbox {
+    border: 3px solid #ef1010; 
+    height: 300px;
+    display:flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
+    flex-wrap: wrap;
+}
+
+div {
+    text-align: center;
+    color: black;
+    font-size: 4em;
+    flex-basis: 100px ;
+}
+
+.one {
+    background-color: lightblue;
+  align-self: stretch;
+  flex-basis: 50px;
+}
+
+.two {
+    background-color: lightblue;
+    width: 20%;
+    flex-basis: 50px;
+align-self: end;
+}
+
+.three{
+    background-color: lightblue;
+      align-self: stretch;
+       flex-basis: 50px;
+}
+    
