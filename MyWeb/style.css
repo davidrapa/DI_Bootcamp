@@ -1,0 +1,30 @@
+.box-title {    
+  height: 100px;
+  width: 100px;
+  position: absolute;
+  top: 150px;
+  margin: 7px;
+}
+
+.box-content {
+  height: 50px;
+  width: 600px; 
+  position: absolute;
+  top: 380px;
+  margin: 7px;
+  color: rgb(0, 0, 0);
+
+}
+
+h1	{
+text-align: left;
+font-size: 100px;
+
+}
+.cards {
+display: inline-flex;
+justify-content: space-around;
+
+}
+
+    
