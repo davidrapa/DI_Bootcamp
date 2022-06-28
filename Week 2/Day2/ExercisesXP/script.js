@@ -67,19 +67,19 @@ switch(users.length) {
         console.log('no one is on line')
       break;
     case 1:
-        console.log(users =[0] + users [1] +'are online')
+        console.log(users =[0]+ 'is online')
       break;
       case 2:
         console.log(users =[0] + users [1] +'are online')
       break;
       case 3:
-        console.log(users =[0] + users [1] + users.length + 'are online')
+        console.log(users =[0] + users [1] +  'are online')
       break;
       case 4:
-        console.log(users =[0] + users [1] + users.length + 'are online')
+        console.log(users =[0] + users [1]+ 'are online')
       break;
       case 5:
-        console.log(users =[0] + users [1] + users.length + 'are online')
+        console.log(users =[0] + users [1] + 'are online')
       break;
 
 }
