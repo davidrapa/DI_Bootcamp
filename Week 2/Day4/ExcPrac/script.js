@@ -76,6 +76,7 @@ console.log(calculateTip())
 // 391 414 437 460 483
 // Sum : 5313
 
+
 isDivisible()
 function isDivisible(){
 let sum = 0
@@ -168,7 +169,8 @@ function myBill(){
 // All other destination : 300$
 
 // Define a function called rentalCarCost().
-// It should ask the user for the number of days they would like to rent the car.
+// It should ask the user for the number of days they would like to rent t.
+he car.
 // If the user doesn’t answer or if the answer is not a number, ask again.
 // Calculate the cost to rent the car. The car costs $40 everyday.
 // If the user rents a car for more than 10 days, they get a 5% discount.
